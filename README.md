@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Mohit
-- 🌱 I’m learning AWS Web Services, Full Stack Development, Machine Learning and Blockchain 
+- 🌱 I’m learning AWS , Full Stack Development, Machine Learning and Blockchain 
 
 <!---
 MohitAhirwar/MohitAhirwar is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
