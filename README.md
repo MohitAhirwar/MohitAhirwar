@@ -1,7 +1,10 @@
-- 👋 Hi, I'm Mohit, a Full Stack Mobile Developer at Chubb
-- 🌱 Currently exploring Full Stack Development, Machine Learning, and Blockchain
-- 📈 Combining tech and finance, I am keenly interested in stock market analysis
-- 🚀 Open to collaboration! If you're interested in working together or have any exciting projects, feel free to reach out via email at ahirwar.1@alumni.iitj.ac.in
+👋 Hi, I'm Mohit, a passionate Full Stack Developer at Chubb!
+🌟 I'm currently diving deep into Full Stack Development, Machine Learning, and DevOps to expand my expertise.
+📈 With a strong blend of tech and finance, I have a keen interest in stock market analysis and leveraging technology to solve real-world problems.
+🤝 Always open to exciting collaborations! If you’re looking for a creative mind to join forces or have an innovative project in mind, don’t hesitate to reach out.
+
+📬 Email: mohit.ahirwar07@gmail.com
+🚀 Let’s build something impactful together!
 
 <!---
 MohitAhirwar/MohitAhirwar is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
